@@ -37,6 +37,12 @@ body {
   color: white;
 }
 
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+
 
 /* Increase the font size of the h1 element */
 .header h1 {
