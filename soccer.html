@@ -87,93 +87,65 @@
   <div class="main">
 
 
+<h2 style="text-align:center">Multiple Slideshows</h2>
 
-    <h1>Software Engineering Internships</h1>
-	<hr>
+<p>Slideshow 1:</p>
+<div class="slideshow-container">
+  <div class="mySlides1">
+    <img src="img_nature_wide.jpg" style="width:100%">
+  </div>
 
+  <div class="mySlides1">
+    <img src="img_snow_wide.jpg" style="width:100%">
+  </div>
 
+  <div class="mySlides1">
+    <img src="img_mountains_wide.jpg" style="width:100%">
+  </div>
 
+  <a class="prev" onclick="plusSlides(-1, 0)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1, 0)">&#10095;</a>
+</div>
 
+<p>Slideshow 2:</p>
+<div class="slideshow-container">
+  <div class="mySlides2">
+    <img src="img_band_chicago.jpg" style="width:100%">
+  </div>
 
-    <h2>Aersys Inc.</h2>
-	  <h3> Position: Software Developer Intern, May 2019 - July 2019 </h3>
-    
-   <img src="img_aersys.png" alt="Keeyan Haghshenas" width="680" height="300" class="responsive"> 
+  <div class="mySlides2">
+    <img src="img_band_la.jpg" style="width:100%">
+  </div>
 
-<p>Software Developer with a focus on Front End Development</p>
-<p> </p>
-	  
-	  <p>Utilized a combination of Kotlin, Java, and XML, to implement marketplace, security, maps 
-(using Google Maps API), package tracking, and cross platform functionality </p>
-<p> </p>
-<p> UI/UX Design and Implementation </p>
-<p> </p>
+  <div class="mySlides2">
+    <img src="img_band_ny.jpg" style="width:100%">
+  </div>
 
-<p> Collaborated with Brand Management to develop wire frames for all media platforms </p>
-<p> </p>
-<p>Coordinated with Back End development team to develop company unique API, used amongst all platforms for all package tracking </p>
-	  <p> </p>
-<p>Lead biweekly meetings across all departments to monitor progress and ensure deadlines would be met accordingly</p>
+  <a class="prev" onclick="plusSlides(-1, 1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1, 1)">&#10095;</a>
+</div>
 
+<script>
+var slideIndex = [1,1];
+var slideId = ["mySlides1", "mySlides2"]
+showSlides(1, 0);
+showSlides(1, 1);
 
+function plusSlides(n, no) {
+  showSlides(slideIndex[no] += n, no);
+}
 
-
-
-
-<h3> Company Website </h3>
-
-<a href="https://drive.google.com/uc?id=1GujwSg2ZCovZQLGlrAzMdryOAq6FQWZF&export=download" download>
-	<p> Aersys.com </p> </a>
-
-<hr>
- 
-
-
- <h1>Electrical Engineering Internships</h1>
-	<hr>
-
-    <h2>Consulting and Municipal Engineers Associates</h2>
-	  <h3> Technical Intern,July 2018 - August 2018,July 2019 - August 2019 </h3>
-
-   <img src="img_cme.png" alt="Keeyan Haghshenas" width="680" height="300" class="responsive"> 
-
-
- <h3> Goal: To Develop a fantasy game that allows aspiring investors to learn how to trade financial stocks.The game supports trading activities and simulates a broker who pretends to execute trading orders. </h3>
-
- <h4> Actions: </h4>
-
-
-
-
-    
-<p> As a group we were able to developed an interface that simulates role of broker that executes educated trades as well as simulates a competition aspect in order to make the simulator a game </p>
-
-<p> We essentially created a fantasy league but instead of the statistics in a sporting game, we created a league with all types of functionality that uses actual stock data, including buy/sell stocks, trading, different game types, multiple leagues,   cross platform functionality, security features and real data as well as gearing the basis of the simulator to be educational in its function, teaching young investors how to operate in the market</p>
-
-<p> Our software was designed to utilize SQL databases, big data analysis, .NET programming, Alexa Integration, and Microsoft's Azure to result in a website, and functional iOS and Android applications </p>
-
-
-
-<p> However it doesn't stop there we were able to implemented desktop ticker hardware, using data from databases that shows how your stocks are doing in real time</p>
-
-    <p>I also headed and organized all documentation and presentation of progression through development cycle,
-utilizing symbolic representation of software life-cycle models</p>
-
-
-
-
-
-
-
-
-<h3> Company Website </h3>
-
-<a href="https://drive.google.com/uc?id=1GujwSg2ZCovZQLGlrAzMdryOAq6FQWZF&export=download" download>
-	<p> CMEUSA1.com </p> </a>
-
-
-
-<hr>
+function showSlides(n, no) {
+  var i;
+  var x = document.getElementsByClassName(slideId[no]);
+  if (n > x.length) {slideIndex[no] = 1}    
+  if (n < 1) {slideIndex[no] = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";  
+  }
+  x[slideIndex[no]-1].style.display = "block";  
+}
+</script>
  
   </div>
 </div>
