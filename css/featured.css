@@ -1,5 +1,7 @@
 .column {
   float: left;
+  padding 15px;
+  
 }
 .column.side{
  width: 25%;
