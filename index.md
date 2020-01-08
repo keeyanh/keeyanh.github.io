@@ -142,3 +142,9 @@ Equations / Software Engineering/ Digital Logic Design/Computer Architecture/Dig
 
 </body>
 </html>
+
+<script>
+document.getElementById("text").innerHTML = "Text added by JavaScript code";
+</script>
+
+
