@@ -1,7 +1,7 @@
 {
   "name": "keeyan-haghshenas",
   "version": "0.1.0",
-  "homepage": "http://keeyanh.github.io/keeyan",
+  "homepage": "http://keeyanh.github.io",
   "private": true,
   "dependencies": {
     "-": "^0.0.1",
