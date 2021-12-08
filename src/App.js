@@ -148,6 +148,7 @@ const App = () => (
       <p><u><b>Description:</b></u> Member and Graduate of the Engineering Honors Program that introduced, tailored and explored all aspects of engineering from the entrance of high school to graduation.</p>
       <p><u><b>Activities and Societies:</b></u> Engineering Honors Program, Robotics Team, Varsity Soccer, Varsity Track.</p>
       </Col>
+      <Col></Col>
     </Row>
     
     
