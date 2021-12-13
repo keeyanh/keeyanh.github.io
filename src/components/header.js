@@ -10,7 +10,7 @@ const header = () => {
   return (
     <Navbar bg="light" expand="lg">
       <Container>
-        <Navbar.Brand href="#home">Keeyan Haghshenas</Navbar.Brand>
+        <Navbar.Brand href="/">Keeyan Haghshenas</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
