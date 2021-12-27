@@ -12,7 +12,7 @@ Current Site:
   React, Bootstrap, Javascript, HTML, CSS, Github Pages, VS Code
 
 Original Site:
-  HTML, Css, Github Pages,
+  HTML, Css, Github Pages
   
 ## Authors
 
