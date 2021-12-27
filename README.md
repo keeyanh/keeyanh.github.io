@@ -9,10 +9,10 @@ A way to branch out from just python development and showcase my language divers
 ### Technology
 
 Current Site:
-  React, Bootstrap, Javascript, HTML, CSS, Github Pages
+  React, Bootstrap, Javascript, HTML, CSS, Github Pages, VS Code
 
 Original Site:
-  HTML, Css, Github Pages
+  HTML, Css, Github Pages,
   
 ## Authors
 
@@ -22,6 +22,6 @@ keeyanhaghshenas9@gmail.com
 ## Version History
 
 * 2.0
-    * Javascript, React, Bootstrap, GP
+    * Javascript, React, Bootstrap, GP, VS Code
 * 1.0
     * HTML, CSS, GP
