@@ -14,11 +14,7 @@ Current Site:
 Original Site:
   HTML, Css, Github Pages
   
-```
-
 ## Authors
-
-Contributors names and contact info
 
 Keeyan Haghshenas
 keeyanhaghshenas9@gmail.com
