@@ -7,12 +7,13 @@ A React application used as a cover for my github portfolio, a central location 
 A way to branch out from just python development and showcase my language diversity, and in the process create a portfolio site.
 
 ### Technology
-Original Site:
-  HTML, Css, Github Pages
-  
+
 Current Site:
   React, Bootstrap, Javascript, HTML, CSS, Github Pages
 
+Original Site:
+  HTML, Css, Github Pages
+  
 ```
 
 ## Authors
