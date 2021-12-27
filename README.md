@@ -1,10 +1,10 @@
-# Project Title
+# Self Developed Portfolio Site
 
-Portfolio Site
+A React application used as a cover for my github portfolio, a central location for my work and information. 
 
-## Description
+## Description/Motivation
 
-A React application used as a cover for my github portfolio, a central location for my work.
+A way to branch out from just python development and showcase my language diversity, and in the process create a portfolio site.
 
 ### Technology
 Original Site:
@@ -25,6 +25,6 @@ keeyanhaghshenas9@gmail.com
 ## Version History
 
 * 2.0
-    * Javascript, React, Bootstrap
+    * Javascript, React, Bootstrap, GP
 * 1.0
-    * HTML, CSS
+    * HTML, CSS, GP
