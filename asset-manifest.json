@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.fcedc67a.chunk.css",
-    "main.js": "/static/js/main.c911b885.chunk.js",
-    "main.js.map": "/static/js/main.c911b885.chunk.js.map",
+    "main.js": "/static/js/main.9a8d45a1.chunk.js",
+    "main.js.map": "/static/js/main.9a8d45a1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.960f43dd.js",
     "runtime-main.js.map": "/static/js/runtime-main.960f43dd.js.map",
     "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.d702479e.chunk.js": "/static/js/2.d702479e.chunk.js",
-    "static/js/2.d702479e.chunk.js.map": "/static/js/2.d702479e.chunk.js.map",
+    "static/js/2.83828f85.chunk.js": "/static/js/2.83828f85.chunk.js",
+    "static/js/2.83828f85.chunk.js.map": "/static/js/2.83828f85.chunk.js.map",
     "static/js/3.38ab504c.chunk.js": "/static/js/3.38ab504c.chunk.js",
     "static/js/3.38ab504c.chunk.js.map": "/static/js/3.38ab504c.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/static/css/2.0a9ec390.chunk.css.map",
     "static/css/main.fcedc67a.chunk.css.map": "/static/css/main.fcedc67a.chunk.css.map",
-    "static/js/2.d702479e.chunk.js.LICENSE.txt": "/static/js/2.d702479e.chunk.js.LICENSE.txt",
+    "static/js/2.83828f85.chunk.js.LICENSE.txt": "/static/js/2.83828f85.chunk.js.LICENSE.txt",
     "static/media/athena.cd3bff37.png": "/static/media/athena.cd3bff37.png",
     "static/media/certificate.57573e38.png": "/static/media/certificate.57573e38.png",
     "static/media/certificate1.2e2798eb.png": "/static/media/certificate1.2e2798eb.png",
@@ -27,13 +27,14 @@
     "static/media/img_logo.1a4ed147.png": "/static/media/img_logo.1a4ed147.png",
     "static/media/img_ramapo.9c5b3fa6.png": "/static/media/img_ramapo.9c5b3fa6.png",
     "static/media/img_three.ff983e61.png": "/static/media/img_three.ff983e61.png",
-    "static/media/inverted_logo_eyes.3928422e.png": "/static/media/inverted_logo_eyes.3928422e.png"
+    "static/media/inverted_logo_eyes.3928422e.png": "/static/media/inverted_logo_eyes.3928422e.png",
+    "static/media/react_logo.ef20e673.png": "/static/media/react_logo.ef20e673.png"
   },
   "entrypoints": [
     "static/js/runtime-main.960f43dd.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.d702479e.chunk.js",
+    "static/js/2.83828f85.chunk.js",
     "static/css/main.fcedc67a.chunk.css",
-    "static/js/main.c911b885.chunk.js"
+    "static/js/main.9a8d45a1.chunk.js"
   ]
 }
