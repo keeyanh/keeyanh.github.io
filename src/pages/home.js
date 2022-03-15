@@ -92,6 +92,23 @@ const Home = () => {
           </p>
         </Col>
         <Col sm={8} style={{ background: "#f7f8f9" }}>
+          <h1 className="header">Background</h1>
+          <hr></hr>
+          <h2 className="text-center">Senior Data Analyst at Colgate-Palmolive</h2>
+          <h2 className="text-center">Full stack software engineer</h2>
+          
+          <h2 className="text-center">Project Manager/Scrum Master -- Multiple Projects</h2>
+          <h2 className="text-center">B.S. in Electrical and Computer Engineering Degree</h2>
+          <hr></hr>
+          <h4><b><u>My stack:</u></b> </h4>
+          <h4><u>Frontend:</u> Html, Css, Javascript, React, Plotly Dash</h4>
+          <h4><u>Frontend CSS Frameworks:</u> Bootstrap, Material UI</h4>
+          <h4><u>Backend:</u> Django, Flask </h4>
+          <h4><u>Database:</u> MySQL, Postgres, Neo4j, Elasticsearch</h4>
+          <h4><u>Dev Ops:</u> GCP, NGINX, Docker, Kubernetes</h4>
+          <h4><u>Mobile:</u> Kotlin, Java </h4>
+
+          <hr></hr>
           <h1 className="header">Professional Certifications</h1>
           <hr></hr>
           <ControlledCarousel></ControlledCarousel>
@@ -180,7 +197,6 @@ const Home = () => {
                 Varsity Track.
               </p>
             </Col>
-            <Col></Col>
           </Row>
         </Col>
       </Row>
